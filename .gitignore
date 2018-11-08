@@ -54,9 +54,6 @@ local.properties
 .scala_dependencies
 .worksheet
 ### Java template
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -131,12 +128,3 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 *.iml
-.idea/
-IntelliJDemo.iml
-src/
-.idea/compiler.xml
-.idea/description.html
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
